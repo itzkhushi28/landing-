@@ -1,78 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background: #f4f4f4;
-  color: #333;
-}
-
-header {
-  background: #333;
-  color: #fff;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-nav ul {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  background: #555;
-}
-
-nav ul li {
-  margin: 0 15px;
-}
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  padding: 14px 20px;
-  display: block;
-}
-
-.hero {
-  padding: 50px 20px;
-  background: #eaeaea;
-  text-align: center;
-}
-
-.hero h2 {
-  margin-bottom: 20px;
-}
-
-.hero button {
-  padding: 10px 20px;
-  background: #333;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-.features {
-  display: flex;
-  justify-content: space-around;
-  padding: 40px 20px;
-  background: #fff;
-}
-
-.feature-box {
-  background: #f9f9f9;
-  padding: 20px;
-  width: 30%;
-  text-align: center;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -121,6 +47,3 @@ footer {
   </footer>
 </body>
 </html>
-  background: #333;
-  color: white;
-}
